@@ -13,13 +13,11 @@ body {
     color: #1f2937;
 }
 
-/* wrapper of the app*/
 .app {
     max-width: 640px;
     margin: 0 auto;
 }
 
-/*header*/
 .header {
     display: flex;
     flex-wrap: wrap;
@@ -70,7 +68,6 @@ body {
     transform: scale(0.97);
 }
 
-/*counters*/
 .stats {
     display: flex;
     justify-content: space-between;
@@ -84,7 +81,6 @@ body {
     color: #312e81;
 }
 
-/*play area*/
 .board {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -95,7 +91,6 @@ body {
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
 }
 
-/*cart styles*/
 .card {
     aspect-ratio: 1 / 1;
     perspective: 800px;
@@ -149,7 +144,6 @@ body {
     border-color: #22c55e;
 }
 
-/*modal window*/
 .modal-overlay {
     position: fixed;
     inset: 0;
@@ -207,7 +201,6 @@ body {
     flex-wrap: wrap;
 }
 
-/*leader's table*/
 .leaders-table {
     width: 100%;
     border-collapse: collapse;
