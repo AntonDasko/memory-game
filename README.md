@@ -70,3 +70,7 @@ Developed as part of the [RS School 2026Q3](https://github.com/rolling-scopes-sc
 - **Web Storage API** — `localStorage` для хранения результатов.
 
 Без сторонних библиотек и фреймворков.
+
+## Автор
+
+- GitHub: [@AntonDasko](https://github.com/AntonDasko).
